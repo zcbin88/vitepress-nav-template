@@ -41,7 +41,7 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
 
     footer: {
-      message: '如有转载或 CV 的请标注本站原文地址',
+      message: 'ICP备案号:<a href="https://beian.miit.gov.cn/">豫ICP备19044382号-2</a>',
       copyright: 'Copyright © 2019-present maomao',
     },
 
